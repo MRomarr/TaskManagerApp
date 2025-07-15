@@ -24,3 +24,9 @@ This application allows users to create lists, add tasks to them, update task , 
 - SQL Server
 - JWT Authentication
 - Swagger / Swashbuckle (for API testing)
+
+---
+
+ERD
+
+<img width="1143" height="802" alt="image" src="https://github.com/user-attachments/assets/d4dec333-4e09-4cbc-939d-023c2f187bdf" />
