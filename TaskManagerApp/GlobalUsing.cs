@@ -1,0 +1,11 @@
+﻿global using TaskManagerApp.Data;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Identity;
+global using TaskManagerApp.Models;
+global using TaskManagerApp.Helper;
+global using Microsoft.AspNetCore.Authentication.JwtBearer;
+global using TaskManagerApp.Interface;
+global using TaskManagerApp.Repositores;
+global using System.ComponentModel.DataAnnotations;
+global using TaskManagerApp.Services;
+global using Microsoft.AspNetCore.Authorization;
