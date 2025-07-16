@@ -1,6 +1,6 @@
 # TaskManagerApp
 
-A **Small .NET Web API** project for managing tasks and task lists. 
+A ** .NET Web API** project for managing tasks and task lists. 
 This application allows users to create lists, add tasks to them, update task , and manage their to-do activities efficiently.
 
 ---
