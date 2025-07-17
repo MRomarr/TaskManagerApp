@@ -7,9 +7,9 @@ This application allows users to create lists, add tasks to them, update task , 
 
 ## ✨ Features
 
-Full CRUD support for lists and tasks
-JWT authentication and role-based authorization
-Uses the Repository pattern and Unit of Work
+Full CRUD support for lists and tasks 
+JWT authentication and role-based authorization 
+Uses the Repository pattern and Unit of Work 
 
 ---
 
